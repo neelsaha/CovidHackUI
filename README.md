@@ -1,3 +1,14 @@
+# CovidHackUI
+
+Steps to RUN:
+1) Install NodeJs from NodeJs Official Page
+2) Open Terminal
+3) Go to your file project
+4) Run in terminal npm install -g @angular/cli
+5) Then run npm install
+6) And npm start
+7) Navigate to http://localhost:4200
+
 # [Paper Dashboard Angular](https://www.creative-tim.com/product/paper-dashboard-angular)
 ![version](https://img.shields.io/badge/version-2.1.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/paper-dashboard-angular.svg?maxAge=2592000)]() [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/paper-dashboard-angular.svg?maxAge=2592000)]()  [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
